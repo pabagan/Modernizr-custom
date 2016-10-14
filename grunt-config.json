@@ -1,0 +1,25 @@
+{
+  "parseFiles": true,
+  "customTests": [],
+  "devFile": "./modernizr-dev.js",
+  "outputFile": "./modernizr-output.js",
+  "tests": [
+    "canvas",
+    "cookies",
+    "fullscreen-api",
+    "geolocation",
+    "hiddenscroll",
+    "intl",
+    "queryselector",
+    "svg",
+    "touchevents",
+    "video",
+    "battery/lowbattery",
+    "css/all",
+    "css/flexbox"
+  ],
+  "extensibility": [
+    "setClasses"
+  ],
+  "uglify": true
+}

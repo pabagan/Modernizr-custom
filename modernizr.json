@@ -1,0 +1,26 @@
+{
+  "minify": false,
+  "options": [
+    "setClasses"
+  ],
+  "feature-detects": [
+    "test/canvas",
+    "test/cookies",
+    "test/fullscreen-api",
+    "test/geolocation",
+    "test/hiddenscroll",
+    "test/intl",
+    "test/queryselector",
+    "test/svg",
+    "test/touchevents",
+    "test/video",
+    "test/battery/lowbattery",
+    "test/css/all",
+    "test/css/animations",
+    "test/css/gradients",
+    "test/css/transforms",
+    "test/css/transforms3d",
+    "test/css/transitions",
+    "test/css/flexbox"
+  ]
+}
